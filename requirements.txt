@@ -1,0 +1,12 @@
+flask
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+speechrecognition
+pyttsx3
+pyaudio
+boto3
+streamlit
+requests
